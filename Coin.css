@@ -1,0 +1,15 @@
+.coin{
+    height: 300px;
+    width: 300px;
+    color: white;
+    background-color: rgb(36, 36, 36);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.coin img{
+    height: 60px;
+}
